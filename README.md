@@ -2,7 +2,7 @@
 
 ## About 
 
-I have made a few adjustments to [https://github.com/kbre93/dont-hold-your-breath](this project) to make it suitable for usage in a small experiment setting. First, I added a GUI to allow users to select the specific Polar monitor they wish to connect to. Then, I changed the data output to use the format `serialnumber-date-time`, ensuring anonymity but also allowing the researcher to differentiate between the different trials.
+I have made a few adjustments to [this project](https://github.com/kbre93/dont-hold-your-breath) to make it suitable for usage in a small experiment setting. First, I added a GUI to allow users to select the specific Polar monitor they wish to connect to. Then, I changed the data output to use the format `serialnumber-date-time`, ensuring anonymity but also allowing the researcher to differentiate between the different trials.
 
 
 ## Features
